@@ -1,0 +1,21 @@
+HEADER    FLUORESCENT PROTEIN                     01-AUG-96   1EMA              
+TITLE     GREEN FLUORESCENT PROTEIN FROM AEQUOREA VICTORIA                      
+  20 GLY
+  19 LYS
+  18 LEU
+  17 VAL
+  17 ASP
+  15 GLU
+  14 THR
+  13 PHE
+  13 ASN
+  12 ILE
+  10 SER
+  10 PRO
+   9 TYR
+   9 HIS
+   8 ALA
+   7 GLN
+   7 ARG
+   2 CYS
+   1 TRP
